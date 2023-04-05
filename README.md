@@ -6,9 +6,15 @@
 - 💬 Ask me about hiding a body (kidding)
 - 📫 My email: felipe.cavi.r@gmail.com
 - 😄 Pronouns: He/him
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" height="25">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="" height="25">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="" height="25">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="" height="25">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="" height="25">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Cavichiolo&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cavichiolo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
 <div> 
   <a href = "mailto:felipe.cavi.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
