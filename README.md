@@ -2,8 +2,6 @@
 
 - 🏡 Living in: Curitiba/PR/Brazil
 - 🌱 I’m currently learning more about python and front-end
-- 👯 I’m looking to collaborate on all that I am capable of
-- 💬 Ask me about hiding a body (kidding)
 - 📫 My email: felipe.cavi.r@gmail.com
 - 😄 Pronouns: He/him
 <div>
